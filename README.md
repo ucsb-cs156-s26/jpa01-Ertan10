@@ -1,6 +1,6 @@
 # jpa01-Ertan10
 
-Deployed at: (https://jpa01-ertan10.dokku-04.cs.ucsb.edu)
+Deployed at: https://jpa01-ertan10.dokku-04.cs.ucsb.edu
 
 
 # About this repo
